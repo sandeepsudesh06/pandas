@@ -1,0 +1,10 @@
+{
+	"firstname": "Sandeep",
+	"lastname": "Sudesh Kumar",
+	"No": 6,
+	"Year": "1999",
+	"address": {
+		"temporary_address": "Stittsville",
+		"permanent_address": "Chennai"
+	}
+}
